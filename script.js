@@ -149,7 +149,7 @@ function handleRealCoconutFall() {
   setTimeout(resetAlertBox, 5000);
 }
 
-function flashVisualizeri() {
+function flashVisualizer() {
   document.querySelectorAll(".visualizer-bar").forEach(bar => {
     bar.style.transition = "background-color 0.05s";
     bar.style.backgroundColor = "#c62828";
