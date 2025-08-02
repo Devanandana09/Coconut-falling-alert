@@ -156,7 +156,8 @@ function flashVisualizer() {
     setTimeout(() => bar.style.backgroundColor = "", 200);
   });
 }
-//helloworld
+//helloworldspassword
+//ty
 function average(arr) {
   let sum = 0;
   arr.forEach(v => sum += v);
