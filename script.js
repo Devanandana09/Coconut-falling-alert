@@ -158,6 +158,7 @@ function flashVisualizer() {
 }
 //helloworldspassword
 //ty
+//f1
 function average(arr) {
   let sum = 0;
   arr.forEach(v => sum += v);
